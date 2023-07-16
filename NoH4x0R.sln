@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{E5F3DB59-0ABB-43C3-AE55-2038A6344DDA}"
+	ProjectSection(SolutionItems) = preProject
+		age.txt = age.txt
+		nom.txt = nom.txt
+		prenomF.txt = prenomF.txt
+		prenomG.txt = prenomG.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F715FE2A-1240-4879-8EE4-82DEBD323E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F715FE2A-1240-4879-8EE4-82DEBD323E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F715FE2A-1240-4879-8EE4-82DEBD323E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F715FE2A-1240-4879-8EE4-82DEBD323E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F715FE2A-1240-4879-8EE4-82DEBD323E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F715FE2A-1240-4879-8EE4-82DEBD323E6A} = {E5F3DB59-0ABB-43C3-AE55-2038A6344DDA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D3B3C01-8C78-459C-90D8-0D2809B9E361}
+	EndGlobalSection
+EndGlobal
